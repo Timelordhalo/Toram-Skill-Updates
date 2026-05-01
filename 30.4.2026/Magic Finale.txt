@@ -1,0 +1,6 @@
+Magic Finale:
+- New:
+  Base Cast Time = (13 - Skill Level) - (Total CSPD / 10000)
+
+- Old:
+  Base Cast Time = (13 - Skill Level)

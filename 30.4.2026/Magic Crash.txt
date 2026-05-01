@@ -1,0 +1,7 @@
+Magic Crash:
+- New:
+  Initial Meteor does not get any critical bonus
+  2nd volley Meteor gets a 50% chance for absolute critical (separate from critical calculation)
+  3rd volley Meteor gets absolute critical
+  
+  Ignores half of enemy magic defense BEFORE Magic Pierce %
