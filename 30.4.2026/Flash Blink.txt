@@ -1,0 +1,8 @@
+Flash Blink:
+- New:
+  Skill Multiplier = 300 + 30 * Skill Level + BaseAGI/4
+  Attack Count = 1 + Evasions Left
+
+- Old:
+  Skill Multiplier = 300 + 30 * Skill Level + BaseAGI/3
+  Attack Count = 1 + Evasions Used
