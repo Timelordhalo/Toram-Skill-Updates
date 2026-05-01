@@ -1,0 +1,11 @@
+Spiral Air:
+- New:
+  This Skill can Crit
+  
+  Physical Pierce % + MIN(50, (Current Hit Amount - 1) * 5.6)
+
+
+- Old:
+  This Skill cannot Crit
+  
+# Current Hit Amount - 1 means that the First Hit doesn't get a PP% Bonus

@@ -1,0 +1,6 @@
+Storm Blaze:
+- New:
+  MP Recovery = (Stacks Consumed ^ 2) * 4
+ 
+- Old:
+  MP Recovery = (Stacks Consumed ^ 2) * 4

@@ -1,0 +1,7 @@
+Rampage:
+- New:
+  No longer sets your DEF/MDEF or Dodge to 0
+  Finishing Attack reduces damage by 90%, belongs in BASE SKILL REDUCTION category of Hell's Step 14 of defensive damage calc.
+
+- Old:
+  Sets your DEF/MDEF and Dodge to 0
