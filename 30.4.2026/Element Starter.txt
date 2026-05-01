@@ -1,0 +1,5 @@
+Element Starter:
+- New:
+  Skills gain Dual-Element from equipped sub-katana, does not apply to Additional Hit skills (e.g Retrograde Additional Hits)
+  
+# It seems the Additional Hit thing was always a feature, just nobody triggered it

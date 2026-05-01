@@ -1,0 +1,7 @@
+Quick Loader:
+- New:
+  This Skill is Max Motion by default (I did not see it mentioned anywhere)
+  If buff is already active, consumes the buff, recovers (Final MP Consumed / 2) MP and does NOT reapply the buff?
+  
+# wtf aso??
+  
