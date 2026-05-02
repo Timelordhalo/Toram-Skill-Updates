@@ -1,0 +1,7 @@
+Lunar Misfortune:
+- New:
+  ONLY from 8 metres or more does it use MAX[Long Range%, Short Range% / 2] (Does not Round Down)
+
+Phantom Eclipse:
+- New:
+  Couldn't find out

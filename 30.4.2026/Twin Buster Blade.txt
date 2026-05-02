@@ -1,0 +1,14 @@
+Twin Buster Blade:
+- New:
+  Single Target Hits:
+    Skill Constant = 30 * Skill Level
+  AOE Hit:
+    Purifying TBB gets an additional BaseSTR/2 mult to circumvent the damage loss on 0 Debuffs
+    Skill Constant = 30 * Skill Level
+  
+
+- Old:
+  Single Target Hits:
+    Skill Constant = 10 * Skill Level
+  AOE Hit:
+    Skill Constant = 20 * Skill Level

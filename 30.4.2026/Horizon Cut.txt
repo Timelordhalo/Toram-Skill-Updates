@@ -1,0 +1,6 @@
+Horizon Cut:
+- New:
+  The following conditions have to ALL be met to not get tumbled:
+    360 degrees
+	It is a ranged attack (I am confused about this)
+	The smallest AOE DURING the attack is not smaller than 17 metres in radius.
