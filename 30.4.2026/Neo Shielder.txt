@@ -1,0 +1,12 @@
+Neo Shielder:
+- New:
+  Shielder-Type:
+    Buff Duration + 8 * Skill Level seconds
+  Other Types:
+    Buff Duration + 4 * Skill Level seconds
+
+- New:
+  Shielder-Type:
+    Buff Duration + 4 * Skill Level seconds
+  Other Types:
+    Buff Duration + 2 * Skill Level seconds

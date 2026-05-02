@@ -1,0 +1,5 @@
+Attack Boost:
+- New:
+  Grants a single-time boost to 1 Golem Normal Attack
+  
+# :kekdodge:
