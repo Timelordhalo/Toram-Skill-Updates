@@ -1,0 +1,5 @@
+N Dragon Tooth:
+- New:
+  MP Recovery = 10 * Dragon Tooth Skill Level
+  If Back Step:
+    MP Recovery = 30 * Dragon Tooth Skill Level

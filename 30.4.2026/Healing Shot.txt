@@ -1,0 +1,3 @@
+Healing Shot:
+- New:
+  Applies Healing Shot buff on hit
