@@ -1,0 +1,6 @@
+Lightning Hail:
+- New:
+  Skill Multiplier = 75 + 20 * INT(Skill Level / 2) * TotalINT / 10
+
+- Old:
+  Skill Multiplier = 100 + 20 * INT(Skill Level / 2) * TotalINT / 10

@@ -1,0 +1,3 @@
+Draconic Charge:
+- New:
+  2nd Hit uses MAX[INT(1st Hit Physical Pierce% / 2), Magic Pierce%]

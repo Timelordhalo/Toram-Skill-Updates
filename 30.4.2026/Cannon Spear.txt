@@ -1,0 +1,6 @@
+Cannon Spear:
+- New:
+  Toss Constant = 100 + 10 * Skill Level
+
+- Old:
+  Toss Constant = 0
