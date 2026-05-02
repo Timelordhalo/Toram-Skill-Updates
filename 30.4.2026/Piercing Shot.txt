@@ -1,6 +1,6 @@
 Piercing Shot:
 - New:
-  1 Second per charge, 0.5 Seconds per charge if boss is under FTS
+  1.5 Second per charge, 0.5 Seconds per charge if boss is under FTS
 
 - Old:
   2 Second per charge, 1 Seconds per charge if boss is under FTS

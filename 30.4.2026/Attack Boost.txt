@@ -1,5 +1,5 @@
 Attack Boost:
 - New:
-  Grants a single-time boost to 1 Golem Normal Attack
+  Grants a single-use boost to 1 Golem Normal Attack when Call Golem is used during Golem summon duration
   
-# :kekdodge:
+# :kekdoge:

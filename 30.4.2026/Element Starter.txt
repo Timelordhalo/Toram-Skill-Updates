@@ -1,5 +1,7 @@
 Element Starter:
 - New:
   Skills gain Dual-Element from equipped sub-katana, does not apply to Additional Hit skills (e.g Retrograde Additional Hits)
+  Katana Element takes priority
   
 # It seems the Additional Hit thing was always a feature, just nobody triggered it
+# I don't know what happens if katana has no element

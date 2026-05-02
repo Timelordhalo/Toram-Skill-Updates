@@ -1,4 +1,4 @@
 Sonic Blade:
 - New:
   If Distance between Player and Mob is 8 metres or higher:
-    Skill Multiplier += MIN[170, ((Distance - 8) * 10 + 10)]
+    Skill Multiplier += MIN[170, ((MIN[Max Cast Range, Distance] - 8) * 10 + 10)]
