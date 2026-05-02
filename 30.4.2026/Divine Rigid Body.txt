@@ -1,0 +1,3 @@
+Divine Rigid Body:
+- New:
+  While God Hand Buff is up and your Divine Rigid Body is Level 1 or higher, you are exempted from death once until your God Hand Buff ends.

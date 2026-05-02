@@ -1,0 +1,3 @@
+God Hand:
+- New:
+  Gain 1 God Hand stack on hit
