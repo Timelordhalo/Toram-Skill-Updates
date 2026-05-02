@@ -1,0 +1,16 @@
+Poison Master:
+- New:
+  With OHS or Barehand:
+    Death Reception Single Target Multiplier + 75 * Skill Level
+    Death Reception AOE Multiplier + 45 * Skill Level
+
+  With All Other Weapons:
+    Death Reception Single Target Multiplier + 50 * Skill Level
+    Death Reception AOE Multiplier + 30 * Skill Level
+
+- Old:
+  With All Weapons:
+    Death Reception Multiplier + 50 * Skill Level
+	
+# Skill Level refers to Poison Master skill level
+# The additional Multiplier is applied after the Base Skill Multiplier is calculated for AOE

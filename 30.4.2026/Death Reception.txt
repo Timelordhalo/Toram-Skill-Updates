@@ -1,0 +1,8 @@
+Death Reception:
+- New:
+  With OHS:
+    Base Skill Multiplier + TotalDEX
+
+- Old:
+  With OHS:
+    Base Skill Multiplier + BaseDEX
