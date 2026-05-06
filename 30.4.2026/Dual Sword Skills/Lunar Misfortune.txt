@@ -1,7 +1,11 @@
 Lunar Misfortune:
 - New:
-  ONLY from 8 metres or more does it use MAX[Long Range%, Short Range% / 2] (Does not Round Down)
+  ONLY from 8 metres or more does it use MAX[Long Range%, Short Range% / 2] (Does not Round)
+  Lunar Misfortune Star Rain does not benefit from this buff
+  
 
 Phantom Eclipse:
 - New:
-  Couldn't find out
+  Double Skill Multiplier
+  
+# Might have bug and still be the same multiplier

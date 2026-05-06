@@ -1,4 +1,4 @@
 Draconic Charge:
 - New:
   2nd Hit uses MAX[INT(1st Hit Physical Pierce% / 2), Magic Pierce%]
-  Both parameters are affected by Dragon Tooth Pierce Buff
+  Both parameters are affected by N Dragon Tooth Pierce to BOTH the Halved Pierce and the Magic Pierce and then the comparison is made.
